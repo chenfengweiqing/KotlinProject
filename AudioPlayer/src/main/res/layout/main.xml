@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+   <TextView android:layout_width="wrap_content"
+		android:layout_height="40dp" android:text="@string/file_name"
+		android:id="@+id/textView" />
+	<EditText android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:id="@+id/file_name" 
+		android:text=""/>
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<Button android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/button_play"
+			android:onClick="mediaPlay" android:id="@+id/button_play" />
+
+		<Button android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/button_pause"
+			android:onClick="mediaPlay" android:id="@+id/button_pause" />
+
+		<Button android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="@string/button_stop"
+			android:onClick="mediaPlay" android:id="@+id/button_stop" />
+	</LinearLayout>
+
+</LinearLayout>

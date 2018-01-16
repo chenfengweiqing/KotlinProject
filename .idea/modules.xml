@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AudioPlayer/AudioPlayer.iml" filepath="$PROJECT_DIR$/AudioPlayer/AudioPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KedditBySteps/KedditBySteps.iml" filepath="$PROJECT_DIR$/KedditBySteps/KedditBySteps.iml" />
       <module fileurl="file://$PROJECT_DIR$/KotlinProject.iml" filepath="$PROJECT_DIR$/KotlinProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kedditbysteps/kedditbysteps.iml" filepath="$PROJECT_DIR$/kedditbysteps/kedditbysteps.iml" />
     </modules>
   </component>
 </project>

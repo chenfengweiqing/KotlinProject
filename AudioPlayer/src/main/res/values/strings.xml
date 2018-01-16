@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AudioPlayerActivity!</string>
+    <string name="app_name">AudioPlayer</string>
+    <string name="file_name">请输入音乐文件名</string>
+    <string name="file_noexist">音乐文件不存在</string>
+    <string name="button_play">播放</string>
+    <string name="button_pause">暂停</string>
+    <string name="button_continue">继续</string>
+    <string name="button_stop">停止</string>
+</resources>

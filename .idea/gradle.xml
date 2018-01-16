@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/kedditbysteps" />
+            <option value="$PROJECT_DIR$/AudioPlayer" />
+            <option value="$PROJECT_DIR$/KedditBySteps" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
