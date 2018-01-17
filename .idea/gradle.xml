@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/AudioPlayer" />
             <option value="$PROJECT_DIR$/KedditBySteps" />
+            <option value="$PROJECT_DIR$/SimpleCalendar" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

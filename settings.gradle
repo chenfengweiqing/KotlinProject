@@ -1,1 +1,1 @@
-include ':AudioPlayer', ':KedditBySteps'
+include ':AudioPlayer', ':KedditBySteps', ':SimpleCalendar'
